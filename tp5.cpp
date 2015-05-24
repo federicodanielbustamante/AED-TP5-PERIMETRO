@@ -1,5 +1,5 @@
 /*
-	TP 4 - Calcular perimetro de un rectangulo.
+	TP 5 - Calcular perimetro de un rectangulo.
 	Federico Daniel Bustamante
 	24/05/2015
 
