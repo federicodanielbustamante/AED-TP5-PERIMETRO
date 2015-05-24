@@ -1,0 +1,3 @@
+Ingresar la base: 65.5
+Ingresar la altura: 44.3
+El perimetro es: 219.6
